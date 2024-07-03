@@ -1,0 +1,19 @@
+body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-image: url(back.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+li {
+    color: white;
+    list-style-type: none;
+    font-size: 25px;
+    font-family: "Montserrat",sans-serif;
+}
+
+div {
+    display: inline-block;
+}
